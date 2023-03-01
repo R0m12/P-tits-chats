@@ -1,0 +1,121 @@
+[
+    {
+      "breeds": [],
+      "id": "302",
+      "url": "https://cdn2.thecatapi.com/images/302.jpg",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "breeds": [],
+      "id": "a6v",
+      "url": "https://cdn2.thecatapi.com/images/a6v.jpg",
+      "width": 520,
+      "height": 345
+    },
+    {
+      "breeds": [],
+      "id": "ahl",
+      "url": "https://cdn2.thecatapi.com/images/ahl.jpg",
+      "width": 520,
+      "height": 600
+    },
+    {
+      "breeds": [],
+      "id": "cj2",
+      "url": "https://cdn2.thecatapi.com/images/cj2.jpg",
+      "width": 1232,
+      "height": 860
+    },
+    {
+      "breeds": [],
+      "id": "e79",
+      "url": "https://cdn2.thecatapi.com/images/e79.jpg",
+      "width": 500,
+      "height": 337
+    },
+    {
+      "breeds": [],
+      "categories": [
+        {
+          "id": 6,
+          "name": "caturday"
+        }
+      ],
+      "id": "MTU1Nzc3MQ",
+      "url": "https://cdn2.thecatapi.com/images/MTU1Nzc3MQ.jpg",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "breeds": [],
+      "id": "MTcxMzAzOA",
+      "url": "https://cdn2.thecatapi.com/images/MTcxMzAzOA.jpg",
+      "width": 640,
+      "height": 358
+    },
+    {
+      "breeds": [],
+      "id": "MTg2NjU5NA",
+      "url": "https://cdn2.thecatapi.com/images/MTg2NjU5NA.jpg",
+      "width": 560,
+      "height": 644
+    },
+    {
+      "breeds": [],
+      "id": "MTk4OTg5Mw",
+      "url": "https://cdn2.thecatapi.com/images/MTk4OTg5Mw.jpg",
+      "width": 900,
+      "height": 563
+    },
+    {
+      "breeds": [
+        {
+          "weight": {
+            "imperial": "6 - 15",
+            "metric": "3 - 7"
+          },
+          "id": "birm",
+          "name": "Birman",
+          "cfa_url": "http://cfa.org/Breeds/BreedsAB/Birman.aspx",
+          "vetstreet_url": "http://www.vetstreet.com/cats/birman",
+          "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/birman",
+          "temperament": "Affectionate, Active, Gentle, Social",
+          "origin": "France",
+          "country_codes": "FR",
+          "country_code": "FR",
+          "description": "The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.",
+          "life_span": "14 - 15",
+          "indoor": 0,
+          "lap": 1,
+          "alt_names": "Sacred Birman, Sacred Cat Of Burma",
+          "adaptability": 5,
+          "affection_level": 5,
+          "child_friendly": 4,
+          "dog_friendly": 5,
+          "energy_level": 3,
+          "grooming": 2,
+          "health_issues": 1,
+          "intelligence": 3,
+          "shedding_level": 3,
+          "social_needs": 4,
+          "stranger_friendly": 3,
+          "vocalisation": 1,
+          "experimental": 0,
+          "hairless": 0,
+          "natural": 0,
+          "rare": 0,
+          "rex": 0,
+          "suppressed_tail": 0,
+          "short_legs": 0,
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Birman",
+          "hypoallergenic": 0,
+          "reference_image_id": "HOrX5gwLS"
+        }
+      ],
+      "id": "Dm0H1zSK1",
+      "url": "https://cdn2.thecatapi.com/images/Dm0H1zSK1.jpg",
+      "width": 1024,
+      "height": 768
+    }
+  ]
